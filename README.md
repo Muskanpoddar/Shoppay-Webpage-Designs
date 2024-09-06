@@ -1,3 +1,3 @@
-# Shoppay-Webpage-Design-
+#  Responsive-Shoppay-Webpage-Design-
 This webpage design is made using html and css.<br> 
-This webpage design i had made while html and css
+I made this webpage design while learning html and css
